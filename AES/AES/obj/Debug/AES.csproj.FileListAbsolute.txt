@@ -1,0 +1,10 @@
+c:\users\hekuran\source\repos\AES\AES\bin\Debug\AES.exe.config
+c:\users\hekuran\source\repos\AES\AES\bin\Debug\AES.exe
+c:\users\hekuran\source\repos\AES\AES\bin\Debug\AES.pdb
+c:\users\hekuran\source\repos\AES\AES\obj\Debug\AES.csprojResolveAssemblyReference.cache
+c:\users\hekuran\source\repos\AES\AES\obj\Debug\AES.Form1.resources
+c:\users\hekuran\source\repos\AES\AES\obj\Debug\AES.Properties.Resources.resources
+c:\users\hekuran\source\repos\AES\AES\obj\Debug\AES.csproj.GenerateResource.cache
+c:\users\hekuran\source\repos\AES\AES\obj\Debug\AES.csproj.CoreCompileInputs.cache
+c:\users\hekuran\source\repos\AES\AES\obj\Debug\AES.exe
+c:\users\hekuran\source\repos\AES\AES\obj\Debug\AES.pdb
